@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary sandy removal steps
+# after package is uninstalled.
+#
+
+echo "sandy has been uninstalled!"
+
+exit 0
